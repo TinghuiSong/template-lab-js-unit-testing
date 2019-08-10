@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TinghuiSong/template-lab-js-unit-testing/issues"
   },
-  "homepage": "https://github.com/TinghuiSong/template-lab-js-unit-testing#readme"
+  "homepage": "https://github.com/TinghuiSong/template-lab-js-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
